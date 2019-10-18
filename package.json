@@ -1,0 +1,28 @@
+{
+  "name": "myapp",
+  "private": true,
+  "dependencies": {
+    "@rails/actioncable": "^6.0.0-alpha",
+    "@rails/activestorage": "^6.0.0-alpha",
+    "@rails/ujs": "^6.0.0-alpha",
+    "@rails/webpacker": "^4.0.7",
+    "turbolinks": "^5.2.0"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "@babel/preset-react": "^7.0.0",
+    "@rails/webpacker": "^4.0.0-rc.2",
+    "babel-plugin-require-context-hook": "^1.0.0",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.21",
+    "postcss-cssnext": "^3.1.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react_ujs": "^2.4.4",
+    "webpack-merge": "^4.2.1"
+  },
+  "resolutions": {
+    "babel-core": "7.0.0-bridge.0"
+  }
+}
